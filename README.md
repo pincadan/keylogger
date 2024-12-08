@@ -1,4 +1,4 @@
-#Here is a simple Python script that can be used to create a keylogger for educational purposes:
+# Here is a simple Python script that can be used to create a keylogger for educational purposes:
 
 This script uses the keyboard library to capture keystrokes, the smtplib library to send emails, and the datetime and threading libraries for timing and reporting.
 
